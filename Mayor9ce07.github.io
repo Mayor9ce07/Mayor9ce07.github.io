@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Web Design</title>
+  </head>
+  <body>
+    <h1>Welcome to my web design</h1>
+    <p>I am learning web design using Acode!</p>
+
+    <h2>Things I Love</h2>
+    <ul>
+      <li>Designing websites</li>
+      <li>Learning new skills</li>
+      <li>Making money online</li>
+    </ul>
+
+    <p>Thanks for visiting!</p>
+  </body>
+</html>
